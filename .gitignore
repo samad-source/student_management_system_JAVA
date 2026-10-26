@@ -1,0 +1,11 @@
+# Local Java Development Kit
+oracleJdk-27/
+
+# Compiled Java files
+*.class
+
+# Local course data
+courses.txt
+
+# Local VS Code settings
+.vscode/
